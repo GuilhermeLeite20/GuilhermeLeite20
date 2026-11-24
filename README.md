@@ -42,19 +42,6 @@ I'm a **Software Engineering student at FIAP**, a software developer with profes
 
 My path has taken me through **Logymetria → eStracta → Santander Brasil**, connecting product engineering with data-driven decision-making. I enjoy turning complex problems into software that's useful, intuitive, and maintainable.
 
-**Currently exploring:** applied AI, accessibility technology, full-stack architecture and data-intensive systems.
-
-</td>
-<td width="34%" align="center" valign="middle">
-
-<a href="https://github.com/GuilhermeLeite20"><img src="https://github.com/GuilhermeLeite20.png" width="170" alt="Guilherme GitHub avatar" /></a>
-
-**`CODE • CREATE • IMPROVE`**
-
-![FIAP](https://img.shields.io/badge/FIAP-SOFTWARE_ENGINEERING-ED145B?style=for-the-badge)
-![Experience](https://img.shields.io/badge/EXPERIENCE-3_COMPANIES-191C32?style=for-the-badge&labelColor=191C32)
-![English](https://img.shields.io/badge/ENGLISH-ADVANCED-0C8CE9?style=for-the-badge)
-
 </td>
 </tr>
 </table>
