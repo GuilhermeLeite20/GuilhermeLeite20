@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Hi, I'm Guilherme Leite. Software engineer, full-stack developer and data engineer. Animated terminal header.">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090d1c"/><stop offset=".52" stop-color="#111329"/><stop offset="1" stop-color="#091c29"/></linearGradient>
+ <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#b877ff"/><stop offset=".48" stop-color="#54d9ff"/><stop offset="1" stop-color="#6dffca"/></linearGradient>
+ <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#bf82ff" stop-opacity=".7"/><stop offset=".5" stop-color="#66ddff" stop-opacity=".45"/><stop offset="1" stop-color="#73ffd0" stop-opacity=".6"/></linearGradient>
+ <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#8ec9ff" stroke-opacity=".055"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="28"/></filter>
+ <clipPath id="screen"><rect x="38" y="62" width="1124" height="285" rx="13"/></clipPath>
+ <clipPath id="type"><rect x="88" y="145" width="0" height="72"><animate attributeName="width" values="0;0;690;690;0" keyTimes="0;.12;.58;.9;1" dur="8.5s" repeatCount="indefinite"/></rect></clipPath>
+ <style>
+ .mono{font-family:'JetBrains Mono','Fira Code',Consolas,monospace}
+ .ui{font-family:Inter,Arial,sans-serif}
+ .blink{animation:blink 1s steps(2,start) infinite}
+ .pulse{animation:pulse 4s ease-in-out infinite}
+ .float{animation:float 7s ease-in-out infinite}
+ .sweep{animation:sweep 8s linear infinite}
+ @keyframes blink{to{opacity:0}}
+ @keyframes pulse{0%,100%{opacity:.54}50%{opacity:1}}
+ @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-12px)}}
+ @keyframes sweep{0%{transform:translateX(-220px)}100%{transform:translateX(1450px)}}
+ </style>
+</defs>
+<rect width="1200" height="380" rx="25" fill="url(#bg)"/>
+<ellipse cx="190" cy="80" rx="245" ry="155" fill="#8a34ff" opacity=".19" filter="url(#glow)"/>
+<ellipse cx="1000" cy="320" rx="270" ry="160" fill="#0cdbef" opacity=".14" filter="url(#glow)"/>
+<rect width="1200" height="380" rx="25" fill="url(#grid)"/>
+<rect x="25" y="25" width="1150" height="330" rx="18" fill="#0a1120" fill-opacity=".86" stroke="url(#stroke)" stroke-width="1.5"/>
+<path d="M25 66H1175" stroke="#6c87aa" stroke-opacity=".34"/>
+<circle cx="49" cy="46" r="6.5" fill="#ff657a"/><circle cx="72" cy="46" r="6.5" fill="#ffd466"/><circle cx="95" cy="46" r="6.5" fill="#4be3ac"/>
+<text x="600" y="50" text-anchor="middle" class="mono" font-size="14" fill="#8f9bb9">guilherme@dev ~ /portfolio</text>
+<text x="91" y="108" class="mono" font-size="18" fill="#56ffd0">➜</text><text x="121" y="108" class="mono" font-size="18" fill="#98aecb">whoami</text>
+<g clip-path="url(#type)"><text x="88" y="198" class="ui" font-weight="800" font-size="64" letter-spacing="-2" fill="url(#neon)">Hi, I'm Guilherme Leite.</text></g>
+<rect x="86" y="155" width="3" height="52" fill="#65ebff" class="blink" opacity=".8"><animate attributeName="x" values="86;86;775;775;86" keyTimes="0;.12;.58;.9;1" dur="8.5s" repeatCount="indefinite"/></rect>
+<text x="90" y="241" class="mono" font-size="20" fill="#d0dcf4">Software Engineering <tspan fill="#bc7cff">//</tspan> Full Stack <tspan fill="#bc7cff">//</tspan> Data</text>
+<text x="90" y="281" class="mono" font-size="16" fill="#91a5c1">Building software, making sense of data, creating impact.</text>
+<g class="float"><circle cx="1070" cy="155" r="54" fill="none" stroke="#77deff" stroke-opacity=".25" stroke-width="2"/><circle cx="1070" cy="155" r="30" fill="none" stroke="#ab85ff" stroke-opacity=".5" stroke-width="2"/><path d="M1032 155h76M1070 117v76" stroke="#60f7dc" stroke-opacity=".5"/><circle cx="1070" cy="155" r="7" fill="#83fcdf" class="pulse"/></g>
+<text x="90" y="322" class="mono" font-size="13" fill="#62deca">● AVAILABLE FOR NEW CHALLENGES</text>
+<text x="1108" y="322" text-anchor="end" class="mono" font-size="13" fill="#869ab9">SÃO PAULO · BRAZIL</text>
+<g clip-path="url(#screen)"><rect x="-280" y="50" width="145" height="285" transform="skewX(-18)" fill="#b4d7ff" opacity=".025" class="sweep"/></g>
+</svg>
