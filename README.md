@@ -161,13 +161,6 @@ Desktop software built to practice **OOP, interfaces, business rules and local p
 <tr><td><b>Logymetria</b><br/><sub>Oct 2023 – Mar 2024</sub><br/><sub>Front-End Developer & Technician</sub></td><td>React interfaces, an internal SaaS front end, responsive UI with Tailwind/Bootstrap, and technical customer support.</td></tr>
 </table>
 
-<div align="center">
-
-![Education](https://img.shields.io/badge/FIAP-B.Sc._SOFTWARE_ENGINEERING_2024--2028-ED145B?style=for-the-badge)
-![Tech Diploma](https://img.shields.io/badge/COL%C3%89GIO_PENT%C3%81GONO-IT_TECHNICAL_DIPLOMA-27344A?style=for-the-badge)
-
-</div>
-
 ---
 
 ## `> gh stats --live` 📊
