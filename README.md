@@ -13,10 +13,6 @@
 [![Email](https://img.shields.io/badge/EMAIL-LET'S_TALK-12B886?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guiroleite@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeLeite20)
 
-![Views](https://komarev.com/ghpvc/?username=GuilhermeLeite20&label=PROFILE+VIEWS&color=9B5DE5&style=flat-square)
-![Focus](https://img.shields.io/badge/FOCUS-FULL--STACK%20%7C%20DATA%20%7C%20AI-0d1117?style=flat-square&labelColor=1d2139&color=2dd4bf)
-![Based in](https://img.shields.io/badge/BASED%20IN-S%C3%A3o%20Paulo%2C%20BR-0d1117?style=flat-square&labelColor=1d2139&color=8b5cf6)
-
 </div>
 
 <br/>
